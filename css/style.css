@@ -13,11 +13,10 @@ html {
   font-family: var(--font-family);
   font-size: 14px;
   width: 100%;
-  max-width: 1920px;
 }
 
 .container .wrapper {
-  max-width: 1920px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0 15px;
 }
